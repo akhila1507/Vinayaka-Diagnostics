@@ -1,0 +1,80 @@
+.tit{
+    background: #CADBE6;
+    height: 100%;
+    width: 100%;
+}
+
+.tit1{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 4rem;
+line-height: 4.813rem;
+color: #325473;
+display: flex;
+align-items: center;
+position:relative;
+top:3rem;
+left:5rem;
+}
+
+
+
+
+.card-img-top1{
+
+    position: relative;
+    width: 21.7%;
+    height: 21.7%;
+    left: 37%;
+    top: 100%;
+}
+
+
+.card-img-top2{
+
+    position: relative;
+    width: 25%;
+    height: 25%;
+    left: 33%;
+    top: 50%;
+}
+
+
+.card-img-top3{
+
+    position: relative;
+    width: 26%;
+    height: 26%;
+    left: 35%;
+    top: 50%;
+}
+
+
+.card-img-top4{
+
+    position: relative;
+    width: 30.7%;
+    height: 30.7%;
+    left: 35%;
+    top: 50%;
+}
+.card-title{
+
+font-family: 'Outfit';
+
+font-weight: 500;
+font-size: 2.25rem;
+    font-weight: 400;
+    line-height: 140%;  
+} 
+.card{
+    box-shadow: 0.438rem 0.438rem 0.438rem rgba(0, 0, 0, 0.25);
+    border-radius: 2.5rem;
+    -webkit-border-radius: 2.5rem;
+    -moz-border-radius: 2.5rem;
+    -ms-border-radius: 2.5rem;
+    -o-border-radius: 2.5rem;
+    position: relative;
+    top:5rem;
+}
