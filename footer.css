@@ -1,0 +1,217 @@
+@import url('http://fonts.cdnfonts.com/css/masked-hero-demo');
+@import url('http://fonts.cdnfonts.com/css/palanquin');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+.page-footer {
+  background-color: #163653;
+  /* display: grid;
+  grid-template-columns: 1.9fr repeat(3, 1fr); */
+  font-size: 1.45rem;
+  font-weight: 300;
+  line-height: 2;
+  padding: 4rem 0;
+  @media (max-width: 56.25em)
+}
+
+.myclasss{
+  margin: 5%;
+}
+
+
+.text{
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+
+}
+ul>li>a{
+  padding: 3%;
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}
+ul>li>p{
+  padding-bottom: 0;
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}
+a{
+  text-decoration: none;
+}
+.ForMargin{
+  margin-top: 3%;
+  margin-right: 0%;
+  text-align: left;
+}
+.RightMargin{
+  text-align: left;
+  margin-top: 3%;
+  margin-right: 0%;
+}
+.marginleft{
+  padding: 3%;
+}
+#inner-2{
+  height: auto;
+  width: auto;
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.313rem;
+  line-height: 3.625rem;
+  color: #CB8E8E;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  white-space: nowrap;
+  position: relative;
+  left: 2rem;;
+}
+#inner-3{
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 350;
+  font-size: 1.125rem;
+  line-height: 2.125rem;
+  letter-spacing: 0.02em;
+  color: #CB8E8E;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  position: relative;
+  left: 2.5rem;
+  bottom: 0.7rem;
+}
+
+.col-auto{
+  float: right;
+}
+
+#inner-1{
+  margin-top: 0.001rem;
+  width: 6.132rem;
+  height: 2.938rem;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#inner-4{
+  font-size: 0.7rem;
+  margin-top: 2rem;
+  position: relative;
+  top: 2rem;
+  left: 2.4rem;
+}
+
+.wrapper{
+  padding-left: 4rem;
+}
+
+#inner-5{
+  margin-top: 3rem;
+  
+}
+
+.btn{
+  border-radius: 50% !important;
+  font-size: 90%;
+  background-color:  #1f1139 ;
+  outline-color: none !important;
+}
+.input-group{
+  left: 0%;
+right: 0%;
+top: 54.55%;
+bottom: 0%;
+background-color: #AB7BFF;
+opacity: 0.2;
+border-radius: 8px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white !important;
+  opacity: 1;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: white !important;
+}
+.sendIcon{
+  background-color: #FFFFFF !important;
+}
+.input-group-addon{
+
+  color:#AB7BFF;
+  background-color: #ffffff;
+}
+.text1{
+  font-weight: 300;
+  color: #ffffff;
+  position: relative;
+  top: 5.2rem;
+  right: 2rem;;
+  
+}
+
+.text2{
+  font-weight: 300;
+  color: #ffffff;
+  position: relative;
+  left: 8rem;
+  top: 5.2rem;
+  
+}
+.aak1{
+  position: relative;
+  bottom: 9.7rem;
+  left: 7rem;
+}
+.jas1{
+  position: relative;
+  right: 3rem;
+}
+#inner-5{
+  position: relative;
+  top:0.1rem;
+  left: 1.7rem;
+}
+.mb-1{
+  font-weight: 300;
+  position: relative;
+  left: 2.5rem;
+  top: 1rem;;
+}
+.table{
+  font-size: 1.125rem;
+  position: relative;
+  left:2rem;
+  top: 2rem;;
+}
+.list-unstyled{
+  position: relative;
+  top: 6.5rem;
+  right: 2rem;
+}
+.list-unstyled1{
+  position: relative;
+  left: 2rem;
+  top: 5.5rem;
+}
